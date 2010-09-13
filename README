@@ -1,7 +1,7 @@
 Rake task for bulk upload on spreecommerce.com
 ----------------------------------------------
 
-Rake tasks for bulk upload on spree e-commerce solution in ruby. These tasks will allow you to import and export products and maintain them in a csv file.
+Rake tasks for bulk upload on spree e-commerce solution in ruby. These tasks will allow you to import and export products and maintain them in a csv file. Works fine with spree-0.10.2
 
 Usage
 ---------
