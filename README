@@ -1,0 +1,18 @@
+h2. Rake task for bulk upload on spreecommerce.com
+
+Rake tasks for bulk upload on spree e-commerce solution in ruby. These tasks will allow you to import and export products and maintain them in a csv file.
+
+h2. Usage
+
+h3. Import
+spree:export_products
+
+h3. Export
+spree:import_products file=path/to/file.csv
+
+h2. Example
+
+An example file is included in the dir. products.csv
+Import your products in a csv and see the way new products can be added.
+Do not give ID in case you are adding a new product.
+Variants should not have names.
