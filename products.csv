@@ -1,0 +1,8 @@
+"id","sku","name","description","measure","price","on_hand","taxons","has_variants","no_of_variants","deleted_at"
+1060500636,"HETOKEXX","Heinz Tomchi Ketchup",,,31,3000,"Groceries/To Be Cooked/Pulses","true",3,
+1025786160,"HETOKEXX200",,,"200 gms",31,1000,,,,
+1025786161,"HETOKEXX100",,,"300 gms",45,1000,,,,
+1025786162,"HETOKEXX500",,,"500 gms",70,1000,,,,
+1060500637,"MATOKEXX","Maggi Tomato Ketchup",,,31,2000,"Groceries/To Be Cooked/Pulses","true",2,
+1025786164,"MATOKEXX200",,,"200 gms",31,1000,,,,
+1025786165,"MATOKEXX500",,,"500 gms",62,1000,,,,
